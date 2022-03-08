@@ -1,5 +1,5 @@
-## Flethan's Cookie Clicker Mods
-# Magic Regen Tweak
+# Flethan's Cookie Clicker Mods
+## Magic Regen Tweak
 Adjusts magic regeneration so that having your highest possible magic is optimal, as opposed to each spell having a specific optimal max magic.
 
 Currently, due to the way magic regeneration works, each spell has an optimal max magic it should be cast at to regen the quickest. This mod changes the magic regeneration so that it takes roughly the same amount of time to regenerate any specific % of max magic for any amount of max magic. This makes it so the time to regenerate to full magic after casting a spell continually get shorter as you increase you max magic, eliminating the need to micromanage the Grimoire for optimal benefit.
