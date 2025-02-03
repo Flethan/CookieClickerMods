@@ -7,5 +7,3 @@ Currently, due to the way magic regeneration works, each spell has an optimal ma
 The formula this mod uses and some comparison to the vanilla system can be interacted with [at this Desmos.](https://www.desmos.com/calculator/us1po3yfhb)
 
 Conjure Baked Goods has had its magic cost adjusted to better work with this mod. Also, this mod is a slight to decent buff, depending on the spell, to regen time at magic greater than 100.
-
-CCSE is required as a dependency.

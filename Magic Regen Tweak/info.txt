@@ -1,0 +1,12 @@
+{
+	"Name": "Magic Regen Tweak",
+	"ID": "Magic Regen Tweak",
+	"Author": "Flethan",
+	"Description": "Adjusts magic regeneration so that having your highest possible magic is optimal, as opposed to each spell having a specific optimal max magic.",
+	"ModVersion": 1.4,
+	"GameVersion": 2.052,
+	"Date": "02/02/2025",
+	"Dependencies": [],
+	"Disabled": 0,
+	"AllowSteamAchievs": 1
+}
